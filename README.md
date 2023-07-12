@@ -6,6 +6,12 @@
 
 <img src="https://github.com/dips0042/persiapanUAS/blob/a305228de07eeb497760528d0b0ca0615d7fd2de/image1.jpeg">
 
+## LOCALIZATION
+Cara membuat folder lang: php artisan lang:publish
+
+<img src="https://github.com/dips0042/persiapanUAS/blob/1fec41284dd4d61411d95242b9a5300aa313ef3e/S__14704727.jpg">
+<img src="https://github.com/dips0042/persiapanUAS/blob/1fec41284dd4d61411d95242b9a5300aa313ef3e/S__14704729.jpg">
+
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
